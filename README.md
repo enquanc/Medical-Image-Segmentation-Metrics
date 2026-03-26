@@ -18,7 +18,7 @@ Currently, this repository includes the following metrics:
 * `evaluate.ipynb` : A Jupyter Notebook for interactive evaluation and visualization.
 * `requirements.txt` : List of necessary Python dependencies.
 
-## 🛠️ Installation
+## 🛠️ Installation & Execution
 
 To install the required dependencies, run the following command:
 
