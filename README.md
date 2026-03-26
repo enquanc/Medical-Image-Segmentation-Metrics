@@ -21,4 +21,8 @@ Currently, this repository includes the following metrics:
 To install the required dependencies, run the following command:
 
 ```bash
+git clone https://github.com/enquanc/Medical-Image-Segmentation-Metrics
+
+cd https://github.com/enquanc/Medical-Image-Segmentation-Metrics
+
 pip install -r requirements.txt
